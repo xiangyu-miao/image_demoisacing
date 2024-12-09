@@ -35,7 +35,7 @@ image_demoisacing/
 
 1.	Clone the repository:
 ```plaintext
-git clone https://github.com/your-repo/image-demosaicing.git
+git clone https://github.com/xiangyu-miao/image_demoisacing.git
 cd image_demosaic_project
 ```
 2.	Set up a conda virtual environment (optional but recommended):
